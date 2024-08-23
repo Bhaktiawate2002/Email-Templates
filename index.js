@@ -44,3 +44,4 @@ transporter.sendMail(mailOptions, (error, info) => {
     console.log('Message sent: %s', info.messageId);
 });
 //rohit.thawani@hsmedifice.com
+//box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
